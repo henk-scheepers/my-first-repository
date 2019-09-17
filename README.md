@@ -1,19 +1,25 @@
-# heading 1
-## heading 2
-### heading 3
+# My Amazing Project
 
-`//this is a single line of code`
-
+## We have **for-loops**
 ```
-//multiple lines of code can go here
 for(int i = 0; i < 10; i++){
     Console.WriteLine(i);
 }
 ```
 
-this is a list:
-+ list item 1
-- list item 2
+## We have **while loops** that never end
+```
+while(true){
+    Console.WriteLine("One more time");
+}
+```
 
-1. list item 1
-2. list item 2
+## We even have **if statements** like this one
+```
+bool isProjectAmazing = true;
+if(isProjectAmazing){
+    Console.WriteLine("This project is amazing");
+}
+```
+
+### thanks for reading :)
